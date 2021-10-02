@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+file text ...cap nhat lai nè \
+sua them 
+=======
 file text huy big bird  gọi đại no bird
+>>>>>>> Nhanh-1
