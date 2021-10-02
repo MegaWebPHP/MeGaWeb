@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 huy ep zai
+=======
+file text huy big bird  gọi đại no bird
+>>>>>>> Nhanh-1
