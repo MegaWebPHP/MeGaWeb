@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 huy ep zai
 =======
 file text huy big bird  gọi đại no bird
@@ -6,3 +7,10 @@ file text huy big bird  gọi đại no bird
 '
 
 huy rat dep zai
+=======
+file text ...cap nhat lai nè \
+sua them 
+=======
+file text huy big bird  gọi đại no bird
+>>>>>>> Nhanh-1
+>>>>>>> Nhanh-1
