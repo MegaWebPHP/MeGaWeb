@@ -1,1 +1,2 @@
-file text ...cap nhat lai nè 
+file text ...cap nhat lai nè \
+sua them 
